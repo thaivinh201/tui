@@ -13,7 +13,7 @@
         ],
         "version": 5,
         "internalName": "JavHDProvider",
-        "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/JavHDProvider.cs3",
+        "url": "https://raw.githubusercontent.com/thaivinh201/tui/main/JavHDProvider.cs3",
         "name": "JavHDProvider"
     },
     {
@@ -30,7 +30,7 @@
         ],
         "version": 8,
         "internalName": "Sextop1Provider",
-        "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/Sextop1Provider.cs3",
+        "url": "https://raw.githubusercontent.com/thaivinh201/tui/main/Sextop1Provider.cs3",
         "name": "Sextop1Provider"
     },
     {
@@ -47,7 +47,7 @@
         ],
         "version": 5,
         "internalName": "VlxxProvider",
-        "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/VlxxProvider.cs3",
+        "url": "https://raw.githubusercontent.com/thaivinh201/tui/main/VlxxProvider.cs3",
         "name": "VlxxProvider"
     }
 ]
