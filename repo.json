@@ -1,0 +1,12 @@
+{
+  "name": "NSFW",
+  "type": "github",
+  "url": "https://raw.githubusercontent.com/thaivinh201/cloudstream-viet-repo/main/",
+  "icon": "",
+  "addons": [
+    "javhd.cs3",
+    "vlxx.cs3",
+    "javhdz.cs3",
+    "sextop1.cs3",
+  ]
+}
