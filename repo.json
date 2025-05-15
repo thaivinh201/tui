@@ -1,11 +1,8 @@
 {
-  "name": "NSFW",
-  "type": "github",
-  "url": "https://raw.githubusercontent.com/thaivinh201/tui/main/",
-  "icon": "",
-  "addons": [
-    "javhd.cs3",
-    "vlxx.cs3",
-    "sextop1.cs3"
-  ]
+    "name": "NSFW",
+    "description": "thu nghiem 1",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/thaivinh201/tui/main/plugins.json"
+    ]
 }
