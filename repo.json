@@ -1,7 +1,7 @@
 {
   "name": "NSFW",
   "type": "github",
-  "url": "https://raw.githubusercontent.com/thaivinh201/cloudstream-viet-repo/main/",
+  "url": "https://raw.githubusercontent.com/thaivinh201/tui/main/",
   "icon": "",
   "addons": [
     "javhd.cs3",
